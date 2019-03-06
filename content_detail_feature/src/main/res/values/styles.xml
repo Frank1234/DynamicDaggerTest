@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="RootViewStyle">
+        <item name="android:layout_margin">@dimen/activity_padding</item>
+    </style>
+
+</resources>

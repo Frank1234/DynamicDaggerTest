@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/main_navigation" app:startDestination="@id/overviewFragment">
+
+    <fragment android:id="@+id/overviewFragment" android:name="com.ironflowers.fbt2.overview.ui.OverviewFragment"
+              android:label="OverviewFragment">
+
+        <action android:id="@+id/action_overviewFragment_to_detailFragment"
+                app:destination="@id/detailFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/detailFragment" android:name="com.ironflowers.fbt2.content_detail_feature.ui.DetailFragment"
+              android:label="DetailFragment">
+        <argument android:name="contentId" app:argType="string"/>
+        <deepLink android:id="@+id/deepLink" app:uri="www.ironflowers.com/fbt2/content_details/{content_id}"/>
+    </fragment>
+
+</navigation>

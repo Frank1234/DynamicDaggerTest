@@ -1,0 +1,1 @@
+include ':app', ':content_detail_feature', ':core', ':content_overview', ':test'

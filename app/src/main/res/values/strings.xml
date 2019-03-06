@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynaicDaggerTest</string>
+    <string name="message_error_installing_module">Error installing dynamic module</string>
+</resources>

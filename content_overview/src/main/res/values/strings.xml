@@ -1,0 +1,4 @@
+<resources>
+    <string name="content_items_loading_error">Unable to load content items.\n\nPlease check your internet connection.
+    </string>
+</resources>

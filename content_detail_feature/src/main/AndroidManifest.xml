@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:dist="http://schemas.android.com/apk/distribution"
+          package="com.ironflowers.fbt2.content_detail_feature">
+    <dist:module
+            dist:onDemand="false"
+            dist:instant="true"
+            dist:title="@string/title_content_detail_feature">
+        <dist:fusing dist:include="false"/>
+    </dist:module>
+</manifest>
+

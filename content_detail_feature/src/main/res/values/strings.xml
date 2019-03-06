@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_page_loading_error">Unable to load content page.\n\nPlease check your internet connection.
+    </string>
+    <string name="title_content_detail_feature">Content Detail</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303398044290",
+    "firebase_url": "https://fir-test2019.firebaseio.com",
+    "project_id": "fir-test2019",
+    "storage_bucket": "fir-test2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303398044290:android:fef4535f698f42e8",
+        "android_client_info": {
+          "package_name": "ironflowers.com.fbt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303398044290-tk8fsbbh4e0o1mknjm26v22juudi52cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ironflowers.com.fbt2",
+            "certificate_hash": "6d3c252f358f0a2b317a52fccdc1ba1ea69b5a57"
+          }
+        },
+        {
+          "client_id": "303398044290-1uodtolrajoevlp4egt0nva2bj6tdbe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1P8geHapRhn6X92e37JYtnbWfDa2r-SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303398044290-1uodtolrajoevlp4egt0nva2bj6tdbe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
